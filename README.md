@@ -1,6 +1,6 @@
 # Hi there, I'm Pierre 👋
 
-(_Junior_) Front end developer • Musician • Gamer • Lifelong learner
+(_Junior_) Fullstack developer • Musician • Gamer • Lifelong learner
 
 🔭 I’m currently looking for front-end job or good opportunities.
 
@@ -20,6 +20,9 @@ I'm always looking for optimization tools in order to be as productive as possib
 <ul>
 <li>HTML/CSS</li>
 <li>SASS</li>
+<li>PHP</li>
+<li>Laravel</li>
+<li>Symfony</li>
 <li>Styled-components</li>
 <li>React</li>
 <li>Redux</li>
