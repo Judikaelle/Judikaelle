@@ -1,6 +1,6 @@
 # Hi there, I'm Pierre 👋
 
-(_Junior_) Full stack developer • Musician • Gamer • Lifelong learner
+(_Junior_) Front developer • Musician • Gamer • Lifelong learner
 
 🔭 I’m currently looking for back-end/front-end job or good opportunities.
 
@@ -20,8 +20,6 @@ I'm always looking for optimization tools in order to be as productive as possib
 <ul>
 <li>HTML/CSS</li>
 <li>SASS</li>
-<li>PHP</li>
-<li>Laravel</li>
 <li>Symfony</li>
 <li>Styled-components</li>
 <li>React</li>
@@ -31,6 +29,7 @@ I'm always looking for optimization tools in order to be as productive as possib
 ## ✨ _What i want to know or improve_
 
 <ul>
+  <li>TDD/BDD</li>
 <li>GraphQL</li>
 <li>Typescript</li>
 <li>Testing (Jest, Cypress...)</li>
