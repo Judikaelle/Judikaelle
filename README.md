@@ -2,7 +2,7 @@
 
 (_Junior_) Front developer • Musician • Gamer • Lifelong learner
 
-🔭 I’m currently looking for back-end/front-end job or good opportunities.
+🔭 I’m currently looking for front-end job or good opportunities.
 
 👯 I’m looking to collaborate on projects.
 
