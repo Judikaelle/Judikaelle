@@ -6,6 +6,7 @@
 
 👯 I’m looking to collaborate on projects.
 
+💻 I'm actually working on a refactoring landing page for [kinésiologie-bretagne.fr](http://www.kinesiologie-bretagne.fr/) 
 
 ## _Build stuff, learn things, love what you do_
 
@@ -20,7 +21,7 @@ I'm always looking for optimization tools in order to be as productive as possib
 <ul>
 <li>HTML/CSS</li>
 <li>SASS</li>
-<li>Symfony</li>
+<li>Vue</li>
 <li>Styled-components</li>
 <li>React</li>
 <li>Redux</li>
@@ -29,7 +30,7 @@ I'm always looking for optimization tools in order to be as productive as possib
 ## ✨ _What i want to know or improve_
 
 <ul>
-  <li>TDD/BDD</li>
+<li>TDD/BDD</li>
 <li>GraphQL</li>
 <li>Typescript</li>
 <li>Testing (Jest, Cypress...)</li>
