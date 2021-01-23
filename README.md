@@ -16,7 +16,7 @@ I believe the user-centred solutions are the most valuable future digital resour
 
 I'm always looking for optimization tools in order to be as productive as possible.
 
-## 🧿 _Skills_
+## 🚀 _Skills_
 
 <img src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> 
 <img src="https://img.shields.io/badge/sass-%23fc6d26.svg?&style=for-the-badge&logo=sass&logoColor=white&color=cc6699" alt="SASS"/>
@@ -27,7 +27,7 @@ I'm always looking for optimization tools in order to be as productive as possib
 <img src="https://img.shields.io/badge/mongodb-%2368a14a.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
-## ✨ _What i want to know or improve_
+##  _What i want to know or improve_
 
 <ul>
 <li>TDD/BDD</li>
