@@ -2,11 +2,9 @@
 
 (_Junior_) Front developer • Musician • Gamer • Lifelong learner
 
-🔭 I’m currently looking for front-end job or good opportunities.
+💻 I'm actually working at [Clint](https://clintagency.com/) 
 
 👯 I’m looking to collaborate on projects.
-
-💻 I'm actually working on a refactoring landing page for [kinésiologie-bretagne.fr](http://www.kinesiologie-bretagne.fr/) 
 
 ## _Build stuff, learn things, love what you do_
 
