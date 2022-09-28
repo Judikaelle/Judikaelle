@@ -1,8 +1,8 @@
 # Hi there, I'm Pierre 👋
 
-(_Junior_) Front developer • Musician • Gamer • Lifelong learner
+(_Junior_) QA • Musician • Gamer • Lifelong learner
 
-💻 I'm actually working at [Clint](https://clintagency.com/) 
+💻 I'm actually looking for opportunities. 
 
 👯 I’m looking to collaborate on projects.
 
