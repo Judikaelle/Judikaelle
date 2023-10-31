@@ -1,8 +1,8 @@
 # Hi there, I'm Pierre 👋
 
-(_Junior_) QA • Musician • Gamer • Lifelong learner
+Musician • Gamer • Lifelong learner
 
-💻 I'm actually looking for opportunities. 
+💻 I'm actually QA Tester. 
 
 👯 I’m looking to collaborate on projects.
 
